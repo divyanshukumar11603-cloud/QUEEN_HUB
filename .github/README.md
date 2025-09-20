@@ -1,5 +1,5 @@
 <h2 align="center">
-    𝐄𝗌ρ𝗋ⱺ 𝐌ᥙsiᥴ [ ɴᴏ ᴀᴅʂ ] 🕊
+    ǫᴜᴇᴇɴ ꭙ мυѕιᴄ ♪ [ 🇮🇳 ]
 </h2>
 
 <h3 align="center">
@@ -15,7 +15,7 @@
 <summary><b>─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─</b></summary>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamEspro/EsproMusicBot"> <img src="https://img.shields.io/badge/DepRitik%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/divyanshukumar11603-cloud/QUEEN_HUB"> <img src="https://img.shields.io/badge/DepRitik%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </details>
 </h3>
 <h3 align="center">
@@ -29,7 +29,7 @@
 <summary><b>─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─</b></summary>
 
     
-- Get your [Necessary Variables](https://github.com/TeamEspro/EsproMusicBot/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/divyanshukumar11603-cloud/QUEEN_HUB/blob/master/sample.env)
 
 - Upgrade and Update by :
 
@@ -105,7 +105,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <summary><b>─「 sᴜᴩᴩᴏʀᴛ 」─</b></summary>
 
 <p align="center">
-<a href="https://telegram.me/EsproSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/sexySmuggling"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 </details>
 </h3>
@@ -120,7 +120,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 <p align="center">
-<a href="https://telegram.me/EsproUpdate"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/sexySmuggling"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 </details>
 
@@ -130,6 +130,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 </details>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/divyanshukumar11603-cloud/QUEEN_HUB)_ </b>
+
 
 
